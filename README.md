@@ -26,10 +26,12 @@
 ![Postman](https://img.shields.io/badge/-postman-0D1117?style=for-the-badge&logo=postman&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 ![Sonarqube](https://img.shields.io/badge/-sonarqube-0D1117?style=for-the-badge&logo=sonarqube&labelColor=0D1117)&nbsp;
+![Jira](https://img.shields.io/badge/-Jira-0D1117?style=for-the-badge&logo=Jira&labelColor=0D1117)&nbsp;
+
 
 ### Other Knowledge ↴
 ![Google](https://img.shields.io/badge/-Google-0D1117?style=for-the-badge&logo=Google&labelColor=0D1117)&nbsp;
-![Google](https://img.shields.io/badge/-Google-0D1117?style=for-the-badge&logo=Google&labelColor=0D1117)&nbsp;
+![Axios](https://img.shields.io/badge/-axios-0D1117?style=for-the-badge&logo=axios&labelColor=0D1117)&nbsp;
 
 ### Studying in this moment ↴
 ![Go](https://img.shields.io/badge/-Golang-0D1117?style=for-the-badge&logo=go&labelColor=0D1117)&nbsp;
