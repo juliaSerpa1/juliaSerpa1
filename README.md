@@ -31,7 +31,7 @@
 
 ### Other Knowledge ↴
 ![Google](https://img.shields.io/badge/-Google-0D1117?style=for-the-badge&logo=Google&labelColor=0D1117)&nbsp;
-![Axios](https://img.shields.io/badge/-axios-0D1117?style=for-the-badge&logo=axios&labelColor=0D1117)&nbsp;
+![MySql](https://img.shields.io/badge/-MySql-0D1117?style=for-the-badge&logo=MySql&labelColor=0D1117)&nbsp;
 
 ### Studying in this moment ↴
 ![Go](https://img.shields.io/badge/-Golang-0D1117?style=for-the-badge&logo=go&labelColor=0D1117)&nbsp;
