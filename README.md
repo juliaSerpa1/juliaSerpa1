@@ -27,6 +27,7 @@
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 ![Sonarqube](https://img.shields.io/badge/-sonarqube-0D1117?style=for-the-badge&logo=sonarqube&labelColor=0D1117)&nbsp;
 ![Jira](https://img.shields.io/badge/-Jira-0D1117?style=for-the-badge&logo=Jira&labelColor=0D1117)&nbsp;
+![Trello](https://img.shields.io/badge/-Trello-0D1117?style=for-the-badge&logo=Trello&labelColor=0D1117)&nbsp;
 
 
 ### Other Knowledge ↴
